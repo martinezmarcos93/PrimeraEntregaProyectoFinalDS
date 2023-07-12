@@ -2,6 +2,28 @@
 Entrega de proyecto final de Data science para coderhouse
 Puedes consultar nuestra presentacion personal aqui: https://github.com/martinezmarcos93/ProyectoFinalDS/blob/a89d864e47879616b732c3c275d04d7122b2897a/Presentacion.pdf
 
+Data science de Coderhouse
+
+Comision: 32820
+
+
+Integrantes:
+
+Marcos Martinez
+
+-Python Developer-Data science-BA
+
+
+Lydia Patricia Sandoval Gallardo
+
+-Data Developer
+
+
+Ramiro Gantman
+
+| Ecommerce and marketing | Crypto & NFTs
+
+
 El objetivo principal del proyecto es comprender el comportamiento y las tendencias del precio de Bitcoin, así como desarrollar modelos predictivos y explorar la relación con otros activos financieros, como el índice S&P 500.
 
 
