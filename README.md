@@ -23,7 +23,7 @@ Ramiro Gantman
 
 | Ecommerce and marketing | Crypto & NFTs
 
-
+-----------------------
 El objetivo principal del proyecto es comprender el comportamiento y las tendencias del precio de Bitcoin, así como desarrollar modelos predictivos y explorar la relación con otros activos financieros, como el índice S&P 500.
 
 
